@@ -1,2 +1,50 @@
-# DrGViswanathan-30-Day-Coding-Challenge
-My 30-Day Coding Challenge — solving DSA problems, learning new approaches, and improving my problem-solving skills every day.
+#  Dr. G. Viswanathan 30-Day Coding Challenge
+
+Welcome to my 30-Day Coding Challenge!
+
+This repository documents my journey of solving DSA problems every day, improving my problem-solving skills, learning different approaches, and building consistency.
+
+## 🎯 My Goal
+
+For the next 30 days, I aim to:
+
+- Solve at least one coding problem every day
+- Strengthen my DSA fundamentals
+- Learn different problem-solving approaches
+- Improve time and space complexity analysis
+- Build consistency in coding
+
+## 📊 Progress
+
+| Day | Problem | Difficulty | Topic | Status |
+|-----|---------|------------|-------|--------|
+| Day 01 | Two Sum | Easy | Array, HashMap | ✅ |
+| Day 02 | Coming Soon | - | - | ⏳ |
+| Day 03 | Coming Soon | - | - | ⏳ |
+| Day 04 | Coming Soon | - | - | ⏳ |
+| Day 05 | Coming Soon | - | - | ⏳ |
+| ... | ... | ... | ... | ... |
+| Day 30 | Coming Soon | - | - | ⏳ |
+
+## 📚 What Each Day Includes
+
+Each day's folder contains:
+
+- 🧩 Problem
+- 💡 Approach
+- ⏱️ Time Complexity
+- 💾 Space Complexity
+- 📚 Key Learning
+- 💻 Java Solution
+
+## 🔥 Challenge Progress
+
+**Day 1/30 ✅**
+
+One problem at a time. One day at a time. 🚀
+
+## 🔗 Challenge Tracker
+
+My complete progress is also tracked here:
+
+[30-Day Coding Challenge Tracker](YOUR_TRACKER_LINK)
