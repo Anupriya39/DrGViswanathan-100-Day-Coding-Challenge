@@ -19,7 +19,8 @@ For the next 50 days, I aim to:
 | Day | Problem | Difficulty | Topic | Status |
 |-----|---------|------------|-------|--------|
 | Day 01 | Two Sum | Easy | Array, HashMap | ✅ |
-| Day 02 | Coming Soon | - | - | ⏳ |
+| Day 02 | Remove Linked List Elements | Easy | Linked List | ✅ |
+| Day 02 | Group Anagrams | Medium | HashMap, Strings | ✅ |
 | Day 03 | Coming Soon | - | - | ⏳ |
 | Day 04 | Coming Soon | - | - | ⏳ |
 | Day 05 | Coming Soon | - | - | ⏳ |
