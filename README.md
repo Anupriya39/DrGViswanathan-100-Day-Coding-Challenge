@@ -40,7 +40,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 1/50 ✅**
+**Day 2/50 ✅**
 
 One problem at a time. One day at a time. 🚀
 
