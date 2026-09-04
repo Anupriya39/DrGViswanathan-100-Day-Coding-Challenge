@@ -20,7 +20,7 @@ class Solution {
 
             buckets[freq].add(num);
         }
-
+        
         // Get k most frequent elements
         int[] result = new int[k];
         int index = 0;
