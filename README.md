@@ -48,4 +48,4 @@ One problem at a time. One day at a time. 🚀
 
 My complete progress is also tracked here:
 
-[50-Day Coding Challenge Tracker](YOUR_TRACKER_LINK)
+[100-Day Coding Challenge Tracker](YOUR_TRACKER_LINK)
