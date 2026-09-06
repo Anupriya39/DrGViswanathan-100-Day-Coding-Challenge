@@ -22,8 +22,11 @@ For the next 100 days, I aim to:
 | Day 02 | Remove Linked List Elements | Easy | Linked List | ✅ |
 | Day 02 | Group Anagrams | Medium | HashMap, Strings | ✅ |
 | Day 03 | Same Tree | Easy | Binary Tree, Recursion | ✅ |
-| Day 04 | Coming Soon | - | - | ⏳ |
-| Day 05 | Coming Soon | - | - | ⏳ |
+| Day 04 | Top K Frequent Elements | Medium | HashMap, Bucket Sort | ✅ |
+| Day 04 | Invert Binary Tree  | Easy | Recursion | ✅ |
+| Day 05 |  Best Time to Buy and Sell Stock | Easy | DP,Array | ✅ |
+| Day 06 | Merge Intervals | Medium | Sorted,Intervals | ✅ |
+| Day 06 | Min Stack | Medium |  Stacks,Design | ✅ |
 | ... | ... | ... | ... | ... |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
@@ -40,7 +43,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 4/100 ✅**
+**Day 6/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
