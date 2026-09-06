@@ -9,7 +9,7 @@ Continuing my 100-Day Coding Challenge by solving two LeetCode problems focused 
 ## 🧩 1. Min Stack — LeetCode #155
 
 ### Problem
-Design a stack that supports:
+Design a stack that supports;
 - `push()`
 - `pop()`
 - `top()`
