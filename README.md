@@ -27,6 +27,9 @@ For the next 100 days, I aim to:
 | Day 05 |  Best Time to Buy and Sell Stock | Easy | DP,Array | ✅ |
 | Day 06 | Merge Intervals | Medium | Sorted,Intervals | ✅ |
 | Day 06 | Min Stack | Medium |  Stacks,Design | ✅ |
+| Day 07 | Maximum Depth of Binary Tree | Easy |  Tree,DFS | ✅ |
+| Day 07 | Maximum Subarray | Easy |  Array,DP | ✅ |
+| Day 08 |  | Easy |  Array,DP | ✅ |
 | ... | ... | ... | ... | ... |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
@@ -43,7 +46,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 6/100 ✅**
+**Day 7/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
