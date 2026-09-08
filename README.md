@@ -29,7 +29,8 @@ For the next 100 days, I aim to:
 | Day 06 | Min Stack | Medium |  Stacks,Design | ✅ |
 | Day 07 | Maximum Depth of Binary Tree | Easy |  Tree,DFS | ✅ |
 | Day 07 | Maximum Subarray | Easy |  Array,DP | ✅ |
-| Day 08 |  | Easy |  Array,DP | ✅ |
+| Day 08 | Reverse Linked List | Easy | Linked List | ✅ |
+| Day 09 |  | Easy | Linked List | ✅ |
 | ... | ... | ... | ... | ... |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
@@ -46,7 +47,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 7/100 ✅**
+**Day 8/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
