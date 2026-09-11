@@ -32,8 +32,11 @@ For the next 100 days, I aim to:
 | Day 08 | Reverse Linked List | Easy | Linked List | ✅ |
 | Day 09 | Product of Array Except Self | Medium | Array, Prefix Product | ✅ |
 | Day 09 | Symmetric Tree | Easy | Tree, BFS | ✅ |
-| Day 10 | | Easy | Tree, BFS | ✅ |
-| ... | ... | ... | ... | ... |
+| Day 10 | Two Sum II - Input Array is Sorted | Easy  | Two Pointers,Array | ✅ |
+| Day 11 | Balanced Binary Tree | Easy | Tree,DFS | ✅ |
+| Day 11 | 3Sum | Medium | Two Pointers, Sorting | ✅ |
+| Day 12 |  | Medium | Two Pointers, Sorting | ✅ |
+| Day 13 |  | Medium | Two Pointers, Sorting | ✅ |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
 ## 📚 What Each Day Includes
@@ -49,7 +52,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 9/100 ✅**
+**Day 11/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
