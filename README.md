@@ -35,8 +35,10 @@ For the next 100 days, I aim to:
 | Day 10 | Two Sum II - Input Array is Sorted | Easy  | Two Pointers,Array | ✅ |
 | Day 11 | Balanced Binary Tree | Easy | Tree,DFS | ✅ |
 | Day 11 | 3Sum | Medium | Two Pointers, Sorting | ✅ |
-| Day 12 |  | Medium | Two Pointers, Sorting | ✅ |
+| Day 12 | Diameter of Binary Tree | Easy | Tree,DFS| ✅ |
 | Day 13 |  | Medium | Two Pointers, Sorting | ✅ |
+| Day 13 |  | Medium | Two Pointers, Sorting | ✅ |
+| Day 14 |  | Medium | Two Pointers, Sorting | ✅ |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
 ## 📚 What Each Day Includes
@@ -52,7 +54,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 11/100 ✅**
+**Day 12/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
