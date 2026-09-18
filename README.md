@@ -44,7 +44,7 @@ For the next 100 days, I aim to:
 | Day 16 | 𝐋𝐨𝐰𝐞𝐬𝐭 𝐂𝐨𝐦𝐦𝐨𝐧 𝐀𝐧𝐜𝐞𝐬𝐭𝐨𝐫 𝐨𝐟 𝐚 𝐁𝐢𝐧𝐚𝐫𝐲 𝐒𝐞𝐚𝐫𝐜𝐡 𝐓𝐫𝐞𝐞 | Easy | Tree, BST | ✅ |
 | Day 17 | Merge Two Sorted Lists | Easy | Linked List | ✅ |
 | Day 17 | Kth Smallest Element in a BST | Medium | Tree, DFS | ✅ |
-| Day 18 |  | Medium | Binary Search | ✅ |
+| Day 18 | Is Subsequence | Easy | Two Pointers, String | ✅ |
 | Day 19 |  | Medium | Binary Search | ✅ |
 | Day 19 |  | Medium | Binary Search | ✅ |
 | Day 20 |  | Medium | Binary Search | ✅ |
@@ -63,7 +63,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 17/100 ✅**
+**Day 18/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
