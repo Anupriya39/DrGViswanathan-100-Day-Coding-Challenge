@@ -45,9 +45,26 @@ For the next 100 days, I aim to:
 | Day 17 | Merge Two Sorted Lists | Easy | Linked List | ✅ |
 | Day 17 | Kth Smallest Element in a BST | Medium | Tree, DFS | ✅ |
 | Day 18 | Is Subsequence | Easy | Two Pointers, String | ✅ |
-| Day 19 |  | Medium | Binary Search | ✅ |
-| Day 19 |  | Medium | Binary Search | ✅ |
+| Day 19 | Flood Fill | Easy | DFS, Matrix | ✅ |
+| Day 19 | Unique Paths | Medium | DP,Combinatories | ✅ |
 | Day 20 |  | Medium | Binary Search | ✅ |
+| Day 21 |  | Medium | Binary Search | ✅ |
+| Day 21 |  | Medium | Binary Search | ✅ |
+| Day 22 |  | Medium | Binary Search | ✅ |
+| Day 23 |  | Medium | Binary Search | ✅ |
+| Day 23 |  | Medium | Binary Search | ✅ |
+| Day 24 |  | Medium | Binary Search | ✅ |
+| Day 25 |  | Medium | Binary Search | ✅ |
+| Day 25 |  | Medium | Binary Search | ✅ |
+| Day 26 |  | Medium | Binary Search | ✅ |
+| Day 27 |  | Medium | Binary Search | ✅ |
+| Day 27 |  | Medium | Binary Search | ✅ |
+| Day 28 |  | Medium | Binary Search | ✅ |
+| Day 29 |  | Medium | Binary Search | ✅ |
+| Day 29 |  | Medium | Binary Search | ✅ |
+| Day 30 |  | Medium | Binary Search | ✅ |
+| Day 31 |  | Medium | Binary Search | ✅ |
+| Day 31 |  | Medium | Binary Search | ✅ |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
 ## 📚 What Each Day Includes
@@ -63,7 +80,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 18/100 ✅**
+**Day 19/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
