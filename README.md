@@ -47,7 +47,7 @@ For the next 100 days, I aim to:
 | Day 18 | Is Subsequence | Easy | Two Pointers, String | ✅ |
 | Day 19 | Flood Fill | Easy | DFS, Matrix | ✅ |
 | Day 19 | Unique Paths | Medium | DP,Combinatories | ✅ |
-| Day 20 |  | Medium | Binary Search | ✅ |
+| Day 20 | Path Sum | Easy | Tree, DFS | ✅ |
 | Day 21 |  | Medium | Binary Search | ✅ |
 | Day 21 |  | Medium | Binary Search | ✅ |
 | Day 22 |  | Medium | Binary Search | ✅ |
@@ -80,7 +80,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 19/100 ✅**
+**Day 20/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
