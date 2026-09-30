@@ -62,7 +62,7 @@ For the next 100 days, I aim to:
 | Day 28 | 𝐅𝐢𝐧𝐝 𝐒𝐦𝐚𝐥𝐥𝐞𝐬𝐭 𝐋𝐞𝐭𝐭𝐞𝐫 𝐆𝐫𝐞𝐚𝐭𝐞𝐫 𝐓𝐡𝐚𝐧 𝐓𝐚𝐫𝐠𝐞𝐭 | Easy | Binary Search | ✅ |
 | Day 29 | 𝐂𝐨𝐮𝐧𝐭𝐢𝐧𝐠 𝐕𝐚𝐥𝐥𝐞𝐲𝐬 | Easy | Implementation | ✅ |
 | Day 29 | 𝐁𝐞𝐬𝐭 𝐓𝐢𝐦𝐞 𝐭𝐨 𝐁𝐮𝐲 𝐚𝐧𝐝 𝐒𝐞𝐥𝐥 𝐒𝐭𝐨𝐜𝐤 𝐈𝐈 | Easy | Greedy | ✅ |
-| Day 30 | Binary Tree Right Side View | Medium | Tree ,BFS |  |
+| Day 30 | Binary Tree Right Side View | Medium | Tree ,BFS | ✅ |
 | Day 31 | Task Scheduler | Medium | Greedy , Heap | |
 | Day 31 |  Find the Duplicate Number | Medium | Two Pointers ,Binary Search |  |
 | Day 32 |  | Medium | Greedy | ✅ |
