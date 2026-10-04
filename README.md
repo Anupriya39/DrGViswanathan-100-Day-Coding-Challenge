@@ -65,10 +65,10 @@ For the next 100 days, I aim to:
 | Day 30 | Binary Tree Right Side View | Medium | Tree ,BFS | ✅ |
 | Day 31 | Task Scheduler | Medium | Greedy , Heap | ✅|
 | Day 31 | Find the Duplicate Number | Medium | Two Pointers ,Binary Search | ✅ |
-| Day 32 | Flatten Binary Tree to Linked List | Medium | Tree , Stack |  |
-| Day 33 | Subarray Sum Equals K | Medium | Hash Map , Prefix Sum |  |
-| Day 33 | Number of Islands | Medium | Matrix , DFS  |  |
-| Day 34 | Decode Ways | Medium | DP, String |  |
+| Day 32 | Flatten Binary Tree to Linked List | Medium | Tree , Stack | ✅  |
+| Day 33 | Subarray Sum Equals K | Medium | Hash Map , Prefix Sum | ✅  |
+| Day 33 | Number of Islands | Medium | Matrix , DFS  | ✅ |
+| Day 34 | Decode Ways | Medium | DP, String |✅ |
 | Day 35 | Pacific Atlantic Water Flow | Medium | Matrix , DFS   |  |
 | Day 35 | Find All Anagrams in a String | Medium | Sliding Window |  |
 | Day 36 | | Medium | Greedy  | ✅ |
@@ -111,7 +111,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 31/100 ✅**
+**Day 34/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
