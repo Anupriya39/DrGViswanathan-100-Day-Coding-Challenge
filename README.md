@@ -69,11 +69,11 @@ For the next 100 days, I aim to:
 | Day 33 | Subarray Sum Equals K | Medium | Hash Map , Prefix Sum | ✅  |
 | Day 33 | Number of Islands | Medium | Matrix , DFS  | ✅ |
 | Day 34 | Decode Ways | Medium | DP, String |✅ |
-| Day 35 | Pacific Atlantic Water Flow | Medium | Matrix , DFS   |  |
-| Day 35 | Find All Anagrams in a String | Medium | Sliding Window |  |
-| Day 36 | | Medium | Greedy  | ✅ |
-| Day 37 | | Medium | Greedy  | ✅ |
-| Day 37 | | Medium | Greedy  | ✅ |
+| Day 35 | Pacific Atlantic Water Flow | Medium | Matrix , DFS   |✅ |
+| Day 35 | Find All Anagrams in a String | Medium | Sliding Window | ✅ |
+| Day 36 | Clone Graph | Medium | Graph ,DFS | ✅ |
+| Day 37 | Rotting Oranges | Medium | BFS, Matrix  |  |
+| Day 37 | Add Two Numbers | Medium | Greedy  | Linked List , Math | |
 | Day 38 | | Medium | Greedy  | ✅ |
 | Day 39 | | Medium | Greedy  | ✅ |
 | Day 39 | | Medium | Greedy  | ✅ |
@@ -111,7 +111,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 34/100 ✅**
+**Day 36/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
