@@ -74,9 +74,9 @@ For the next 100 days, I aim to:
 | Day 36 | Clone Graph | Medium | Graph ,DFS | ✅ |
 | Day 37 | Rotting Oranges | Medium | BFS, Matrix  | ✅ |
 | Day 37 | Add Two Numbers | Medium | Greedy  | Linked List , Math |✅ |
-| Day 38 | Course Schedule | Medium | Graph , Topology Sort |  |
-| Day 39 | | Medium | Greedy  | ✅ |
-| Day 39 | | Medium | Greedy  | ✅ |
+| Day 38 | Course Schedule | Medium | Graph , Topology Sort | ✅ |
+| Day 39 | LRU Cache | Medium | Design , Hash  Table  | |
+| Day 39 | Coin Change | Medium | DP  |  |
 | Day 40 | | Medium | Greedy  | ✅ |
 | Day 41 | | Medium | Greedy  | ✅ |
 | Day 41 | | Medium | Greedy  | ✅ |
