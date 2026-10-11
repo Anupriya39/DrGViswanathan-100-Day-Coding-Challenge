@@ -78,8 +78,8 @@ For the next 100 days, I aim to:
 | Day 39 | LRU Cache | Medium | Design , Hash  Table  | ✅ |
 | Day 39 | Coin Change | Medium | DP  |✅  |
 | Day 40 | Serialize and Deserialize Binary Tree| | Hard | Tree, BFS  | ✅ |
-| Day 41 | Perfect Squares | Medium | DP  | |
-| Day 41 | Minimum Window Substring | Hard | Sliding Window |  |
+| Day 41 | Perfect Squares | Medium | DP  | ✅ |
+| Day 41 | Minimum Window Substring | Hard | Sliding Window | ✅ |
 | Day 42 | | Medium | Greedy  | ✅ |
 | Day 43 | | Medium | Greedy  | ✅ |
 | Day 43 | | Medium | Greedy  | ✅ |
@@ -111,7 +111,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 40/100 ✅**
+**Day 41/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
