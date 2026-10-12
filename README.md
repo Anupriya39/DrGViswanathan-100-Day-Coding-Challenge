@@ -80,22 +80,57 @@ For the next 100 days, I aim to:
 | Day 40 | Serialize and Deserialize Binary Tree| | Hard | Tree, BFS  | ✅ |
 | Day 41 | Perfect Squares | Medium | DP  | ✅ |
 | Day 41 | Minimum Window Substring | Hard | Sliding Window | ✅ |
-| Day 42 | | Medium | Greedy  | ✅ |
-| Day 43 | | Medium | Greedy  | ✅ |
-| Day 43 | | Medium | Greedy  | ✅ |
-| Day 44 | | Medium | Greedy  | ✅ |
-| Day 45 | | Medium | Greedy  | ✅ |
-| Day 45 | | Medium | Greedy  | ✅ |
-| Day 46 | | Medium | Greedy  | ✅ |
-| Day 47 | | Medium | Greedy  | ✅ |
-| Day 47 | | Medium | Greedy  | ✅ |
-| Day 48 | | Medium | Greedy  | ✅ |
-| Day 49 | | Medium | Greedy  | ✅ |
-| Day 49 | | Medium | Greedy  | ✅ |
-| Day 50 | | Medium | Greedy  | ✅ |
+| Day 42 | Container With Most Water | Medium | Two Pointers  | ✅ |
+| Day 43 | Word Search II | Hard | Trie , DFS |  |
+| Day 43 | Jump Game | Medium | Greedy  |  |
+| Day 44 | Trapping Rain Water | Hard | Two Pointers ,  Stack  |  |
+| Day 45 | Non-overlapping Intervals | Medium | Greedy  | |
+| Day 45 | Median of Two Sorted Arrays | Hard | Binary Search |  |
+| Day 46 | Word Break | Medium | DP  |  |
+| Day 47 | Binary Tree Maximum Path Sum | Hard | Tree, DFS | |
+| Day 47 | Longest Increasing Subsequence | Medium | DP, Binary Search |  |
+| Day 48 | Edit Distance | Medium | DP  | |
+| Day 49 | Sliding Window Maximum | Hard | Monotonic Queue |  |
+| Day 49 | Regular Expression Matching | Hard | DP , Recursion  | |
+| Day 50 | Merge k Sorted Lists | Hard | Heap ,Linked List  |  |
 | Day 51 | | Medium | Greedy  | ✅ |
 | Day 51 | | Medium | Greedy  | ✅ |
 | Day 52 | | Medium | Greedy  | ✅ |
+| Day 53 | | Medium | Greedy  | ✅ |
+| Day 53 | | Medium | Greedy  | ✅ |
+| Day 54 | | Medium | Greedy  | ✅ |
+| Day 55 | | Medium | Greedy  | ✅ |
+| Day 55 | | Medium | Greedy  | ✅ |
+| Day 56 | | Medium | Greedy  | ✅ |
+| Day 57 | | Medium | Greedy  | ✅ |
+| Day 57 | | Medium | Greedy  | ✅ |
+| Day 58 | | Medium | Greedy  | ✅ |
+| Day 59 | | Medium | Greedy  | ✅ |
+| Day 59 | | Medium | Greedy  | ✅ |
+| Day 60 | | Medium | Greedy  | ✅ |
+| Day 61 | | Medium | Greedy  | ✅ |
+| Day 61 | | Medium | Greedy  | ✅ |
+| Day 62 | | Medium | Greedy  | ✅ |
+| Day 63 | | Medium | Greedy  | ✅ |
+| Day 63 | | Medium | Greedy  | ✅ |
+| Day 64 | | Medium | Greedy  | ✅ |
+| Day 65 | | Medium | Greedy  | ✅ |
+| Day 65 | | Medium | Greedy  | ✅ |
+| Day 66 | | Medium | Greedy  | ✅ |
+| Day 67 | | Medium | Greedy  | ✅ |
+| Day 67 | | Medium | Greedy  | ✅ |
+| Day 68 | | Medium | Greedy  | ✅ |
+| Day 69 | | Medium | Greedy  | ✅ |
+| Day 69 | | Medium | Greedy  | ✅ |
+| Day 70 | | Medium | Greedy  | ✅ |
+| Day 71 | | Medium | Greedy  | ✅ |
+| Day 71 | | Medium | Greedy  | ✅ |
+| Day 72 | | Medium | Greedy  | ✅ |
+| Day 73 | | Medium | Greedy  | ✅ |
+| Day 73 | | Medium | Greedy  | ✅ |
+| Day 74 | | Medium | Greedy  | ✅ |
+| Day 75 | | Medium | Greedy  | ✅ |
+| Day 75 | | Medium | Greedy  | ✅ |
 | Day 100 | Coming Soon | - | - | ⏳ |
 
 ## 📚 What Each Day Includes
@@ -111,7 +146,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 41/100 ✅**
+**Day 42/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
