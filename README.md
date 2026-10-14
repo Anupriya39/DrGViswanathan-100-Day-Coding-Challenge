@@ -81,9 +81,9 @@ For the next 100 days, I aim to:
 | Day 41 | Perfect Squares | Medium | DP  | ✅ |
 | Day 41 | Minimum Window Substring | Hard | Sliding Window | ✅ |
 | Day 42 | Container With Most Water | Medium | Two Pointers  | ✅ |
-| Day 43 | Word Search II | Hard | Trie , DFS |  |
-| Day 43 | Jump Game | Medium | Greedy  |  |
-| Day 44 | Trapping Rain Water | Hard | Two Pointers ,  Stack  |  |
+| Day 43 | Word Search II | Hard | Trie , DFS | ✅ |
+| Day 43 | Jump Game | Medium | Greedy  | ✅ |
+| Day 44 | Trapping Rain Water | Hard | Two Pointers ,  Stack  | ✅ |
 | Day 45 | Non-overlapping Intervals | Medium | Greedy  | |
 | Day 45 | Median of Two Sorted Arrays | Hard | Binary Search |  |
 | Day 46 | Word Break | Medium | DP  |  |
@@ -146,7 +146,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 42/100 ✅**
+**Day 44/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
