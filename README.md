@@ -86,7 +86,7 @@ For the next 100 days, I aim to:
 | Day 44 | Trapping Rain Water | Hard | Two Pointers ,  Stack  | ✅ |
 | Day 45 | Non-overlapping Intervals | Medium | Greedy  | ✅ |
 | Day 45 | Median of Two Sorted Arrays | Hard | Binary Search | ✅ |
-| Day 46 | Word Break | Medium | DP  |  |
+| Day 46 | Word Break | Medium | DP  | ✅ |
 | Day 47 | Binary Tree Maximum Path Sum | Hard | Tree, DFS | |
 | Day 47 | Longest Increasing Subsequence | Medium | DP, Binary Search |  |
 | Day 48 | Edit Distance | Medium | DP  | |
