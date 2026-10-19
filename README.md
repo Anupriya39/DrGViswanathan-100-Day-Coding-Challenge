@@ -90,8 +90,8 @@ For the next 100 days, I aim to:
 | Day 47 | Binary Tree Maximum Path Sum | Hard | Tree, DFS |✅ |
 | Day 47 | Longest Increasing Subsequence | Medium | DP, Binary Search | ✅ |
 | Day 48 | Edit Distance | Medium | DP  | ✅ |
-| Day 49 | Sliding Window Maximum | Hard | Monotonic Queue |  |
-| Day 49 | Regular Expression Matching | Hard | DP , Recursion  | |
+| Day 49 | Sliding Window Maximum | Hard | Monotonic Queue | ✅  |
+| Day 49 | Regular Expression Matching | Hard | DP , Recursion  | ✅ |
 | Day 50 | Merge k Sorted Lists | Hard | Heap ,Linked List  |  |
 | Day 51 | | Medium | Greedy  | ✅ |
 | Day 51 | | Medium | Greedy  | ✅ |
@@ -146,7 +146,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 47/100 ✅**
+**Day 49/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
