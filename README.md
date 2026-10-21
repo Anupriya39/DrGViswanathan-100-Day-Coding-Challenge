@@ -93,44 +93,84 @@ For the next 100 days, I aim to:
 | Day 49 | Sliding Window Maximum | Hard | Monotonic Queue | ✅  |
 | Day 49 | Regular Expression Matching | Hard | DP , Recursion  | ✅ |
 | Day 50 | Merge k Sorted Lists | Hard | Heap ,Linked List  | ✅ |
-| Day 51 | Design Twitter | Medium | Design , Heap |  |
-| Day 51 | | Medium | Greedy  | ✅ |
-| Day 52 | | Medium | Greedy  | ✅ |
-| Day 53 | | Medium | Greedy  | ✅ |
-| Day 53 | | Medium | Greedy  | ✅ |
-| Day 54 | | Medium | Greedy  | ✅ |
-| Day 55 | | Medium | Greedy  | ✅ |
-| Day 55 | | Medium | Greedy  | ✅ |
-| Day 56 | | Medium | Greedy  | ✅ |
-| Day 57 | | Medium | Greedy  | ✅ |
-| Day 57 | | Medium | Greedy  | ✅ |
-| Day 58 | | Medium | Greedy  | ✅ |
-| Day 59 | | Medium | Greedy  | ✅ |
-| Day 59 | | Medium | Greedy  | ✅ |
-| Day 60 | | Medium | Greedy  | ✅ |
-| Day 61 | | Medium | Greedy  | ✅ |
-| Day 61 | | Medium | Greedy  | ✅ |
-| Day 62 | | Medium | Greedy  | ✅ |
-| Day 63 | | Medium | Greedy  | ✅ |
-| Day 63 | | Medium | Greedy  | ✅ |
-| Day 64 | | Medium | Greedy  | ✅ |
-| Day 65 | | Medium | Greedy  | ✅ |
-| Day 65 | | Medium | Greedy  | ✅ |
-| Day 66 | | Medium | Greedy  | ✅ |
-| Day 67 | | Medium | Greedy  | ✅ |
-| Day 67 | | Medium | Greedy  | ✅ |
-| Day 68 | | Medium | Greedy  | ✅ |
-| Day 69 | | Medium | Greedy  | ✅ |
-| Day 69 | | Medium | Greedy  | ✅ |
-| Day 70 | | Medium | Greedy  | ✅ |
-| Day 71 | | Medium | Greedy  | ✅ |
-| Day 71 | | Medium | Greedy  | ✅ |
-| Day 72 | | Medium | Greedy  | ✅ |
-| Day 73 | | Medium | Greedy  | ✅ |
-| Day 73 | | Medium | Greedy  | ✅ |
-| Day 74 | | Medium | Greedy  | ✅ |
-| Day 75 | | Medium | Greedy  | ✅ |
-| Day 75 | | Medium | Greedy  | ✅ |
+| Day 51 | Design Twitter | Medium | Design , Heap | ✅ |
+| Day 51 | Count of Smaller Numbers After Self| Hard | Binary Indexed Tree | ✅ |
+| Day 52 | Maximum Profit in Job Scheduling | Hard | DP, Binary Search |  |
+| Day 53 | Burst Balloons | Hard | DP  |  |
+| Day 53 | Palindrome Partitioning II | Hard | DP  |  |
+| Day 54 | Largest Rectangle in Histogram | Hard | Stack  |  |
+| Day 55 | N-Queens | Hard | Backtracking |  |
+| Day 55 | Sudoku Solver | Hard | Backtracking  |  |
+| Day 56 | Reverse Linked List | Easy | Linked List |  |
+| Day 57 | Missing Number | Easy | Math based |  |
+| Day 57 | Middle of the Linked List | Easy | Linked List |  |
+| Day 58 | Add Digits | Easy | Math based |  |
+| Day 59 | Merge Two Sorted Lists | Easy | Linked List |  |
+| Day 59 | Perfect Number | Easy | Math based |  |
+| Day 60 | Linked List Cycle | Easy | Linked List |  |
+| Day 61 | Palindrome Number | Easy | Math based |  |
+| Day 61 | Palindrome Linked List | Easy | Linked List |  |
+| Day 62 | Valid Perfect Square | Easy | Math based |  |
+| Day 63 | Remove Linked List Elements | Easy | Linked List |  |
+| Day 63 | Happy Number | Easy | Math based |  |
+| Day 64 | Rotate List | Medium | Linked List |  |
+| Day 65 | Plus One | Easy | Math based |  |
+| Day 65 | Odd Even Linked List | Medium | Linked List |  |
+| Day 66 | Excel Sheet Column Number | Easy | Math based |  |
+| Day 67 | Swapping Nodes in a Linked List | Medium | Linked List |  |
+| Day 67 | Nth Digit | Medium | Math based |  |
+| Day 68 | Delete the Middle Node of a Linked List | Medium | Linked List |  |
+| Day 69 | Bulb Switcher | Medium | Math based |  |
+| Day 69 | Remove Nth Node From End of List | Medium | Linked List |  |
+| Day 70 | Factorial Trailing Zeroes | Medium | Math based |  |
+| Day 71 | Insert Greatest Common Divisors in Linked List | Medium | Linked List |  |
+| Day 71 | Count Odd Numbers in an Interval Range | Easy | Number theory |  |
+| Day 72 | Remove Duplicates from Sorted List II | Easy | Number theory |  |
+| Day 73 | Sign of the Product of an Array | Easy | Number theory |  |
+| Day 73 | Partition List | Medium | Linked List |  |
+| Day 74 | Reverse Integer | Easy | Number theory |  |
+| Day 75 | Add Two Numbers | Medium | Linked List |  |
+| Day 75 | Excel Sheet Column Title | Easy | Number theory |  |
+| Day 76 | Delete Node in a Linked List | Medium | Linked List |  |
+| Day 77 | Sum of Square Numbers | Medium | Number theory |  |
+| Day 77 | Min Stack | Medium | Stack |  |
+| Day 78 | Two Sum | Easy | Arrays |  |
+| Day 79 | Implement Queue using Stacks | Easy | Stack |  |
+| Day 79 | Contains Duplicate | Easy | Arrays |  |
+| Day 80 | Valid Parentheses | Easy | Stack |  |
+| Day 81 | Best Time to Buy and Sell Stock | Easy | Arrays |  |
+| Day 81 | Evaluate Reverse Polish Notation | Medium | Stack |  |
+| Day 82 | Find Greatest Common Divisor of Array | Easy | Arrays |  |
+| Day 83 | Valid Parenthesis String | Medium | Stack |  |
+| Day 83 | Pascal's Triangle II | Easy | Arrays |  |
+| Day 84 | Minimum Remove to Make Valid Parentheses | Medium | Stack |  |
+| Day 85 | Majority Element | Easy | Arrays |  |
+| Day 85 | Longest Valid Parentheses | Hard | Stack |  |
+| Day 86 | Search Insert Position | Easy | Arrays |  |
+| Day 87 | Basic Calculator | Hard | Stack |  |
+| Day 87 | Move Zeroes | Easy | Arrays |  |
+| Day 88 | Implement Stack using Queues | Easy | Queue |  |
+| Day 89 | Rotate Array | Medium | Arrays |  |
+| Day 89 | Binary Tree Inorder Traversal | Easy | Binary tree |  |
+| Day 90 | Find First and Last Position of Element in Sorted Array | Medium | Arrays |  |
+| Day 91 | Path Sum | Easy | Binary tree |  |
+| Day 91 | Maximum Subarray | Medium | Arrays |  |
+| Day 92 | Minimum Depth of Binary Tree | Easy | Binary tree |  |
+| Day 93 | Number of Subarrays With LCM Equal to K | Medium | Arrays |  |
+| Day 93 | Sum of Left Leaves | Easy | Binary tree |  |
+| Day 94 | Kth Largest Element in an Array | Medium | Arrays |  |
+| Day 95 | Diameter of Binary Tree | Easy | Binary tree |  |
+| Day 95 | Find the Duplicate Number | Medium | Arrays |  |
+| Day 96 | Maximum Depth of Binary Tree | Easy | Binary tree |  |
+| Day 97 | Flipping an Image | Easy | Matrix |  |
+| Day 97 | Binary Tree Level Order Traversal | Medium | Binary tree |  |
+| Day 98 | Rotate Image | Medium | Matrix |  |
+| Day 99 | Binary Tree Right Side View | Medium | Binary tree |  |
+| Day 99 | Lexicographically Smallest Palindrome | Easy | Strings |  |
+| Day 100| Flatten Binary Tree to Linked List | Medium | Binary tree |  |
+| Day extraaa | Length of Last Word | Easy | Strings |  |
+| Day extraa | Lowest Common Ancestor of a Binary Tree | Medium | Binary tree |  |
+
 | Day 100 | Coming Soon | - | - | ⏳ |
 
 ## 📚 What Each Day Includes
@@ -146,7 +186,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 49/100 ✅**
+**Day 51/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
