@@ -92,8 +92,8 @@ For the next 100 days, I aim to:
 | Day 48 | Edit Distance | Medium | DP  | ✅ |
 | Day 49 | Sliding Window Maximum | Hard | Monotonic Queue | ✅  |
 | Day 49 | Regular Expression Matching | Hard | DP , Recursion  | ✅ |
-| Day 50 | Merge k Sorted Lists | Hard | Heap ,Linked List  |  |
-| Day 51 | | Medium | Greedy  | ✅ |
+| Day 50 | Merge k Sorted Lists | Hard | Heap ,Linked List  | ✅ |
+| Day 51 | Design Twitter | Medium | Design , Heap |  |
 | Day 51 | | Medium | Greedy  | ✅ |
 | Day 52 | | Medium | Greedy  | ✅ |
 | Day 53 | | Medium | Greedy  | ✅ |
