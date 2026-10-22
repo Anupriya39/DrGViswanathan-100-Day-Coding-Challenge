@@ -95,7 +95,7 @@ For the next 100 days, I aim to:
 | Day 50 | Merge k Sorted Lists | Hard | Heap ,Linked List  | ✅ |
 | Day 51 | Design Twitter | Medium | Design , Heap | ✅ |
 | Day 51 | Count of Smaller Numbers After Self| Hard | Binary Indexed Tree | ✅ |
-| Day 52 | Maximum Profit in Job Scheduling | Hard | DP, Binary Search |  |
+| Day 52 | Maximum Profit in Job Scheduling | Hard | DP, Binary Search | ✅ |
 | Day 53 | Burst Balloons | Hard | DP  |  |
 | Day 53 | Palindrome Partitioning II | Hard | DP  |  |
 | Day 54 | Largest Rectangle in Histogram | Hard | Stack  |  |
