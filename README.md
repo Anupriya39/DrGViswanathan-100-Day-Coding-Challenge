@@ -98,7 +98,7 @@ For the next 100 days, I aim to:
 | Day 52 | Maximum Profit in Job Scheduling | Hard | DP, Binary Search | ✅ |
 | Day 53 | Burst Balloons | Hard | DP  | ✅ |
 | Day 53 | Palindrome Partitioning II | Hard | DP  | ✅  |
-| Day 54 | Largest Rectangle in Histogram | Hard | Stack  |  |
+| Day 54 | Largest Rectangle in Histogram | Hard | Stack  | ✅ |
 | Day 55 | N-Queens | Hard | Backtracking |  |
 | Day 55 | Sudoku Solver | Hard | Backtracking  |  |
 | Day 56 | Reverse Linked List | Easy | Linked List |  |
