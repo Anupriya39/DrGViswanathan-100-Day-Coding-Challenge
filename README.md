@@ -99,9 +99,9 @@ For the next 100 days, I aim to:
 | Day 53 | Burst Balloons | Hard | DP  | ✅ |
 | Day 53 | Palindrome Partitioning II | Hard | DP  | ✅  |
 | Day 54 | Largest Rectangle in Histogram | Hard | Stack  | ✅ |
-| Day 55 | N-Queens | Hard | Backtracking |  |
-| Day 55 | Sudoku Solver | Hard | Backtracking  |  |
-| Day 56 | Reverse Linked List | Easy | Linked List |  |
+| Day 55 | N-Queens | Hard | Backtracking |✅ |
+| Day 55 | Sudoku Solver | Hard | Backtracking  | ✅ |
+| Day 56 | Reverse Linked List | Easy | Linked List | ✅ |
 | Day 57 | Missing Number | Easy | Math based |  |
 | Day 57 | Middle of the Linked List | Easy | Linked List |  |
 | Day 58 | Add Digits | Easy | Math based |  |
