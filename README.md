@@ -107,9 +107,9 @@ For the next 100 days, I aim to:
 | Day 58 | Add Digits | Easy | Math based | ✅ |
 | Day 59 | Merge Two Sorted Lists | Easy | Linked List | ✅ |
 | Day 59 | Perfect Number | Easy | Math based | ✅ |
-| Day 60 | Linked List Cycle | Easy | Linked List |  |
-| Day 61 | Palindrome Number | Easy | Math based |  |
-| Day 61 | Palindrome Linked List | Easy | Linked List |  |
+| Day 60 | Linked List Cycle | Easy | Linked List | ✅ |
+| Day 61 | Palindrome Number | Easy | Math based | ✅ |
+| Day 61 | Palindrome Linked List | Easy | Linked List | ✅ |
 | Day 62 | Valid Perfect Square | Easy | Math based |  |
 | Day 63 | Remove Linked List Elements | Easy | Linked List |  |
 | Day 63 | Happy Number | Easy | Math based |  |
