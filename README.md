@@ -110,7 +110,7 @@ For the next 100 days, I aim to:
 | Day 60 | Linked List Cycle | Easy | Linked List | ✅ |
 | Day 61 | Palindrome Number | Easy | Math based | ✅ |
 | Day 61 | Palindrome Linked List | Easy | Linked List | ✅ |
-| Day 62 | Valid Perfect Square | Easy | Math based |  |
+| Day 62 | Valid Perfect Square | Easy | Math based | ✅ |
 | Day 63 | Remove Linked List Elements | Easy | Linked List |  |
 | Day 63 | Happy Number | Easy | Math based |  |
 | Day 64 | Rotate List | Medium | Linked List |  |
