@@ -112,8 +112,8 @@ For the next 100 days, I aim to:
 | Day 61 | Palindrome Linked List | Easy | Linked List | ✅ |
 | Day 62 | Valid Perfect Square | Easy | Math based | ✅ |
 | Day 63 | Remove Linked List Elements | Easy | Linked List | ✅ |
-| Day 63 | Happy Number | Easy | Math based | ✅ |
-| Day 64 | Rotate List | Medium | Linked List |  |
+| Day 63 | Happy Number | Easy | Math based |✅ |
+| Day 64 | Rotate List | Medium | Linked List | ✅ |
 | Day 65 | Plus One | Easy | Math based |  |
 | Day 65 | Odd Even Linked List | Medium | Linked List |  |
 | Day 66 | Excel Sheet Column Number | Easy | Math based |  |
