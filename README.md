@@ -114,8 +114,8 @@ For the next 100 days, I aim to:
 | Day 63 | Remove Linked List Elements | Easy | Linked List | ✅ |
 | Day 63 | Happy Number | Easy | Math based |✅ |
 | Day 64 | Rotate List | Medium | Linked List | ✅ |
-| Day 65 | Plus One | Easy | Math based |  |
-| Day 65 | Odd Even Linked List | Medium | Linked List |  |
+| Day 65 | Plus One | Easy | Math based | ✅ |
+| Day 65 | Odd Even Linked List | Medium | Linked List | ✅ |
 | Day 66 | Excel Sheet Column Number | Easy | Math based |  |
 | Day 67 | Swapping Nodes in a Linked List | Medium | Linked List |  |
 | Day 67 | Nth Digit | Medium | Math based |  |
