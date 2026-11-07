@@ -116,10 +116,10 @@ For the next 100 days, I aim to:
 | Day 64 | Rotate List | Medium | Linked List | ✅ |
 | Day 65 | Plus One | Easy | Math based | ✅ |
 | Day 65 | Odd Even Linked List | Medium | Linked List | ✅ |
-| Day 66 | Excel Sheet Column Number | Easy | Math based |  |
-| Day 67 | Swapping Nodes in a Linked List | Medium | Linked List |  |
-| Day 67 | Nth Digit | Medium | Math based |  |
-| Day 68 | Delete the Middle Node of a Linked List | Medium | Linked List |  |
+| Day 66 | Excel Sheet Column Number | Easy | Math based |✅ |
+| Day 67 | Swapping Nodes in a Linked List | Medium | Linked List | ✅ |
+| Day 67 | Nth Digit | Medium | Math based | ✅ |
+| Day 68 | Delete the Middle Node of a Linked List | Medium | Linked List | ✅ |
 | Day 69 | Bulb Switcher | Medium | Math based |  |
 | Day 69 | Remove Nth Node From End of List | Medium | Linked List |  |
 | Day 70 | Factorial Trailing Zeroes | Medium | Math based |  |
