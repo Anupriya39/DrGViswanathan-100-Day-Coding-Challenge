@@ -120,8 +120,8 @@ For the next 100 days, I aim to:
 | Day 67 | Swapping Nodes in a Linked List | Medium | Linked List | ✅ |
 | Day 67 | Nth Digit | Medium | Math based | ✅ |
 | Day 68 | Delete the Middle Node of a Linked List | Medium | Linked List | ✅ |
-| Day 69 | Bulb Switcher | Medium | Math based |  |
-| Day 69 | Remove Nth Node From End of List | Medium | Linked List |  |
+| Day 69 | Bulb Switcher | Medium | Math based | ✅ |
+| Day 69 | Remove Nth Node From End of List | Medium | Linked List | ✅ |
 | Day 70 | Factorial Trailing Zeroes | Medium | Math based |  |
 | Day 71 | Insert Greatest Common Divisors in Linked List | Medium | Linked List |  |
 | Day 71 | Count Odd Numbers in an Interval Range | Easy | Number theory |  |
@@ -186,7 +186,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 63/100 ✅**
+**Day 69/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
