@@ -125,7 +125,7 @@ For the next 100 days, I aim to:
 | Day 70 | Factorial Trailing Zeroes | Medium | Math based | ✅ |
 | Day 71 | Insert Greatest Common Divisors in Linked List | Medium | Linked List |✅ |
 | Day 71 | Count Odd Numbers in an Interval Range | Easy | Number theory | ✅ |
-| Day 72 | Remove Duplicates from Sorted List II | Easy | Number theory |  |
+| Day 72 | Remove Duplicates from Sorted List II | Easy | Number theory | ✅ |
 | Day 73 | Sign of the Product of an Array | Easy | Number theory |  |
 | Day 73 | Partition List | Medium | Linked List |  |
 | Day 74 | Reverse Integer | Easy | Number theory |  |
@@ -186,7 +186,7 @@ Each day's folder contains:
 
 ## 🔥 Challenge Progress
 
-**Day 69/100 ✅**
+**Day 72/100 ✅**
 
 One problem at a time. One day at a time. 🚀
 
