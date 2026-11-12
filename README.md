@@ -126,8 +126,8 @@ For the next 100 days, I aim to:
 | Day 71 | Insert Greatest Common Divisors in Linked List | Medium | Linked List |✅ |
 | Day 71 | Count Odd Numbers in an Interval Range | Easy | Number theory | ✅ |
 | Day 72 | Remove Duplicates from Sorted List II | Easy | Number theory | ✅ |
-| Day 73 | Sign of the Product of an Array | Easy | Number theory |  |
-| Day 73 | Partition List | Medium | Linked List |  |
+| Day 73 | Sign of the Product of an Array | Easy | Number theory | ✅ |
+| Day 73 | Partition List | Medium | Linked List | ✅ |
 | Day 74 | Reverse Integer | Easy | Number theory |  |
 | Day 75 | Add Two Numbers | Medium | Linked List |  |
 | Day 75 | Excel Sheet Column Title | Easy | Number theory |  |
