@@ -128,12 +128,12 @@ For the next 100 days, I aim to:
 | Day 72 | Remove Duplicates from Sorted List II | Easy | Number theory | ✅ |
 | Day 73 | Sign of the Product of an Array | Easy | Number theory | ✅ |
 | Day 73 | Partition List | Medium | Linked List | ✅ |
-| Day 74 | Reverse Integer | Easy | Number theory |  |
-| Day 75 | Add Two Numbers | Medium | Linked List |  |
-| Day 75 | Excel Sheet Column Title | Easy | Number theory |  |
-| Day 76 | Delete Node in a Linked List | Medium | Linked List |  |
-| Day 77 | Sum of Square Numbers | Medium | Number theory |  |
-| Day 77 | Min Stack | Medium | Stack |  |
+| Day 74 | Reverse Integer | Easy | Number theory | ✅ |
+| Day 75 | Add Two Numbers | Medium | Linked List | ✅ |
+| Day 75 | Excel Sheet Column Title | Easy | Number theory | ✅ |
+| Day 76 | Delete Node in a Linked List | Medium | Linked List | ✅ |
+| Day 77 | Sum of Square Numbers | Medium | Number theory | ✅ |
+| Day 77 | Min Stack | Medium | Stack | ✅ |
 | Day 78 | Two Sum | Easy | Arrays |  |
 | Day 79 | Implement Queue using Stacks | Easy | Stack |  |
 | Day 79 | Contains Duplicate | Easy | Arrays |  |
